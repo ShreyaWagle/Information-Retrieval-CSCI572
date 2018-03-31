@@ -1,0 +1,45 @@
+Name: Shreya Sudhir Wagle
+USC ID: 3298824698
+News site crawled: https://www.washingtonpost.com/
+
+Fetch Statistics
+=================
+# fetches attempted: 19901
+# fetches succeeded: 18645
+# fetches failed: 1256
+
+Outgoing URLs:
+=====================
+Total URLs extracted: 434594
+# unique URLs extracted: 157611
+# unique URLs within News Site: 50923
+# unique URLs outside News Site: 106688
+
+Status Codes:
+=====================
+200 OK: 18645
+403 Forbidden:: 2
+502 null: 10
+400 null: 28
+301 Moved Permanently: 504
+302 Found: 28
+404 Not Found:: 684
+
+File Sizes:
+=====================
+< 1KB: 2
+1KB ~ <10KB: 598
+10KB ~ <100KB: 4181
+100KB ~ <1MB: 13726
+>= 1MB: 135
+
+Content Types:
+=====================
+image/jpeg: 642
+image/png: 182
+image/x-icon: 2
+image/svg+xml: 4
+image/gif: 57
+text/html: 16921
+application/pdf: 309
+
